@@ -144,7 +144,7 @@
                <name xml:id="nw9nai61">GitHub Action Scripts</name>
                <p xml:id="p7qmuc01">Adjusted Finis position (Guideline-change)</p>
                <p xml:id="pybh9701">Adjusted the Header according to Guidelines</p>
-            <p>Add system breaks</p></application>
+            <p>Add system breaks</p><p>Remove all system breaks and add again</p></application>
          </appInfo>
          <editorialDecl xml:id="e6uw71b">
             <p xml:id="p8cjjon1">E-LAUTE Edition Guidelines: https://edition.onb.ac.at/fedora/objects/o:lau.red-editionguidelines/datastreams/MEI_CONVENTIONS/content</p>
@@ -351,7 +351,6 @@
                         </layer>
                      </staff>
                   </measure>
-                  <sb xml:id="smoql6m2"/>
                   <measure xml:id="mzgiuca" n="7">
                      <staff xml:id="sqne2d5" n="1">
                         <layer xml:id="lx9lalx1" n="1">
@@ -426,7 +425,6 @@
                         </layer>
                      </staff>
                   </measure>
-                  <sb xml:id="svlm9ko1"/>
                   <measure xml:id="m0h2ip5" n="10">
                      <staff xml:id="sgba6a8" n="1">
                         <layer xml:id="l2f4hoh1" n="1">
@@ -636,7 +634,6 @@
                         </layer>
                      </staff>
                   </measure>
-                  <sb xml:id="sn01x8u1"/>
                   <measure xml:id="m0226cz1" n="20">
                      <staff xml:id="sitc9i4" n="1">
                         <layer xml:id="ldj9rx41" n="1">
@@ -732,7 +729,6 @@
                         </layer>
                      </staff>
                   </measure>
-                  <sb xml:id="subh2rb1"/>
                   <measure xml:id="molf7wo1" n="24">
                      <staff xml:id="s25600e" n="1">
                         <layer xml:id="lhh6gh11" n="1">
