@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xml:id="m7eic491" meiversion="5.1" xmlns="http://www.music-encoding.org/ns/mei">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" xml:id="m7eic491" meiversion="5.1">
    <meiHead xml:id="mcqy22c1">
       <fileDesc xml:id="fay2dnx2">
          <titleStmt xml:id="tur2xeq1">
@@ -137,11 +140,11 @@
                <name xml:id="n6aunar2">mei-friend</name>
                <p xml:id="pwrstik1">First edit by mei-friend 1.0.14p, 3 September 2024.</p>
             </application>
-            <application xml:id="aj1dhpw2" isodate="2025-12-09">
+            <application xml:id="aj1dhpw2" startdate="2025-12-09" enddate="2026-05-22">
                <name xml:id="nw9nai61">GitHub Action Scripts</name>
                <p xml:id="p7qmuc01">Adjusted Finis position (Guideline-change)</p>
                <p xml:id="pybh9701">Adjusted the Header according to Guidelines</p>
-            </application>
+            <p>Add system breaks</p></application>
          </appInfo>
          <editorialDecl xml:id="e6uw71b">
             <p xml:id="p8cjjon1">E-LAUTE Edition Guidelines: https://edition.onb.ac.at/fedora/objects/o:lau.red-editionguidelines/datastreams/MEI_CONVENTIONS/content</p>
